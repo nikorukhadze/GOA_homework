@@ -1,0 +1,6 @@
+print("nikoloz rukhadze (me)")
+print("marika pirtskhalava (mom)")
+print("giorge rukhadze (dad)")
+print("gabriel rukhadze (brother)")
+print("luiza khelachvili (grandmother)")
+print("voli(dog)")
